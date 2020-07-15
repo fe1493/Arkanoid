@@ -1,2 +1,2 @@
 # Arkanoid
-An Arkanoid brick breaker game I made over the course of my OOP course
+An Arkanoid brick breaker game I made during my OOP course
